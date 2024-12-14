@@ -9,7 +9,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true&hide_border=true&hide_title=true&theme=default&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
 </picture>
 <picture>
   <source
@@ -20,14 +20,14 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-ta&layout=compact&hide_border=true&hide_title=true&theme=default&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
 </picture>
 
 <!-- Repo Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henry-ta&repo=cruxtrove&theme=gruvbox&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<table>
+<table align="left">
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
