@@ -9,7 +9,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true&hide_border=true&hide_title=true&theme=default&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
+  <img height=145 align="left" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
 </picture>
 <picture>
   <source
@@ -20,7 +20,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-ta&layout=compact&hide_border=true&hide_title=true&theme=default&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
+  <img height=145 align="left" src="https://github-readme-stats.vercel.app/api?username=henry-ta&show_icons=true" />
 </picture>
 
 <!-- Repo Card
